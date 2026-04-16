@@ -1,0 +1,39 @@
+/* paleta de colores
+#ffbc0d amarillo 
+#8E1616 bordo
+*/
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Header */
+
+
+header ul{
+    list-style: none;
+}
+
+nav a{
+    color: #8E1616;
+    text-decoration: none;
+}
+
+
+/* Main index */
+.presentacion{
+    background-image: url(../img/fondo.jpg);
+}
+
+.presentacion h1{
+    color: white ;
+}
+
+.presentacion p{
+    color: #8E1616;
+}
+
+/* footer */
+footer{
+    background-color: #ffbc0d;
+    color: #8E1616;
+}
